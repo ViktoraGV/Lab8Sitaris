@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentInformation>
+    <student id="1">
+        <surname>Ivanov</surname>
+        <name>Ivan</name>
+        <middlename>Ivanovich</middlename>
+        <facult>IEF</facult>
+        <group>572303</group>
+        <markMath>6</markMath>
+        <markRussian>7</markRussian>
+    </student>
+    <student id="2">
+        <surname>Baranovskaya</surname>
+        <name>Katya</name>
+        <middlename>Sergeevna</middlename>
+        <facult>IEF</facult>
+        <group>572301</group>
+        <markMath>9</markMath>
+        <markRussian>9</markRussian>
+    </student>
+    <student id="3">
+        <surname>Kalinouskaya</surname>
+        <name>Elizabeth</name>
+        <middlename>Igorevna</middlename>
+        <facult>IEF</facult>
+        <group>572301</group>
+        <markMath>8</markMath>
+        <markRussian>9</markRussian>
+    </student>
+    <student id="4">
+        <surname>Petrov</surname>
+        <name>Petr</name>
+        <middlename>Ivanovich</middlename>
+        <facult>FKP</facult>
+        <group>510101</group>
+        <markMath>7</markMath>
+        <markRussian>8</markRussian>
+    </student>
+</StudentInformation>
