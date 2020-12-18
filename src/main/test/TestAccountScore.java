@@ -5,7 +5,7 @@ import radomskaya.entity.Student;
 
 public class TestAccountScore {
     AccountScore accountScore = new AccountScore();
-    Student student = new Student(1, "Ivan", "Ivanov", "Ivanovich", "IEF", "572303", "7", "7");
+    Student student = new Student(1, "Gavrilova", "Viktoria", "Vadimovna", "FCP", "814301", "7", "7");
 
     @Test
     public void testScore() {
